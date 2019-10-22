@@ -1,4 +1,4 @@
 # Your code goes here!
-class Anargam
+class Anagram
   attr_accessor 
 end
