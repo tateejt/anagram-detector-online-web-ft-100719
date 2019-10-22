@@ -2,7 +2,6 @@
 class Anagram
   attr_accessor :name 
   
-  def match(array)
-    @name == array
+  def match
   end
 end
