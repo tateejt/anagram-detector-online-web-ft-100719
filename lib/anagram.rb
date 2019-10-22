@@ -2,7 +2,7 @@
 class Anagram
   attr_accessor :name 
   
-  def match(name)
+  def match(array)
     name == name
   end
 end
